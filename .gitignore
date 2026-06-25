@@ -1,0 +1,22 @@
+# CodeIgniter
+system/cache/
+application/cache/
+application/logs/
+uploads/
+*.zip
+*.log
+
+# IDE
+nbproject/private/
+nbproject/*.properties
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.example
